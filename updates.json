@@ -1,0 +1,54 @@
+{
+  "ok": true, 
+  "result": [
+    {
+      "message": {
+        "from": {
+          "username": "Bibleblack", 
+          "first_name": "Constantine", 
+          "is_bot": false, 
+          "id": 72639045, 
+          "language_code": "en-US"
+        }, 
+        "text": "/start", 
+        "entities": [
+          {
+            "length": 6, 
+            "type": "bot_command", 
+            "offset": 0
+          }
+        ], 
+        "chat": {
+          "username": "Bibleblack", 
+          "first_name": "Constantine", 
+          "type": "private", 
+          "id": 72639045
+        }, 
+        "date": 1505739337, 
+        "message_id": 1
+      }, 
+      "update_id": 973039812
+    }, 
+    {
+      "message": {
+        "date": 1505740687, 
+        "text": "Test", 
+        "from": {
+          "username": "Bibleblack", 
+          "first_name": "Constantine", 
+          "is_bot": false, 
+          "id": 72639045, 
+          "language_code": "en-US"
+        }, 
+        "message_id": 3, 
+        "chat": {
+          "username": "Bibleblack", 
+          "first_name": "Constantine", 
+          "type": "private", 
+          "id": 72639045
+        }
+      }, 
+      "update_id": 973039813
+    }
+  ]
+}
